@@ -40,7 +40,6 @@ vendor/etc/camera/lavender_s5kgm1_ofilm_india_i_chromatix.xml
 vendor/etc/camera/lavender_s5kgm1_sunny_ii_chromatix.xml
 vendor/etc/camera/lavender_s5kgm1_sunny_india_ii_chromatix.xml
 vendor/etc/camera/lf_facerank_model.bin
-vendor/etc/camera/megviifacepp_model
 vendor/etc/camera/model_back.dlc
 vendor/etc/camera/model_front.dlc
 vendor/etc/camera/sdm_ys_32p_120_21_5_perturb50.bin
@@ -62,8 +61,6 @@ vendor/lib/libhal_dbg.so
 vendor/lib/libjpegdhw.so
 vendor/lib/libjpegdmahw.so
 vendor/lib/libjpegehw.so
-vendor/lib/libmegface.so
-vendor/lib/libMegviiFacepp-0.5.2.so
 vendor/lib/libSNPE.so
 vendor/lib/libSonyIMX376C3RmscLibrary.so
 vendor/lib/libSonyIMX376KRmscLibrary.so
