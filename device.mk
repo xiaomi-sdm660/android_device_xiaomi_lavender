@@ -88,11 +88,6 @@ PRODUCT_COPY_FILES += \
 	$(DEVICE_PATH)/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
 	$(DEVICE_PATH)/sensors/elliptic.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/elliptic.conf
 
-# Vibrator
-PRODUCT_PACKAGES += \
-	android.hardware.vibrator@1.0-impl \
-	android.hardware.vibrator@1.0-service
-
 # Vendor files
 $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
 
