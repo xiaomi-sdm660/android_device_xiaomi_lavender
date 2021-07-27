@@ -35,15 +35,15 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
-EVO_DONATE_URL := https://paypal.me/Sap1k
-EVO_MAINTAINER := Sap1k
-EVO_SUPPORT_URL := https://t.me/EvolutionXLavender
+EVO_DONATE_URL := paypal.me/MuhammadKhoiron
+EVO_MAINTAINER := Doraemooonnn
+EVO_SUPPORT_URL := https://t.me/RedmiNote7Indonesia
 
 # Build Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="lavender" \
     PRODUCT_NAME="lavender" \
-    PRIVATE_BUILD_DESC="lavender-user 10 QKQ1.190910.002 V11.0.1.0.QFGMIXM release-keys" 
+    PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.210705.001 7380771 release-keys" 
 
 # Device identifier
 PRODUCT_NAME := evolution_lavender
